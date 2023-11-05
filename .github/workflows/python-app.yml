@@ -37,3 +37,4 @@ jobs:
     - name: python application
       run: |
         python test_calculator.py
+        python calculator.py
